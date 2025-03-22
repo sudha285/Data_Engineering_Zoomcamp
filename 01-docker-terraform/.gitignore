@@ -1,2 +1,5 @@
-/01-docker-terraform/ny_taxi_postgres_data
+
+config.json
 /01-docker-terraform/01_docker/ny_taxi_postgres_data
+*.parquet
+.ipynb_checkpoints/
